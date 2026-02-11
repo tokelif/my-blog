@@ -234,7 +234,7 @@ export default function Home() {
                 GitHub
               </a>
               <a
-                href="mailto:22290525@ogrenci.ankara.edu.tr"
+                href="mailto:tokelifw@gmail.com"
                 className="rounded-xl border border-zinc-700 px-5 py-2.5 font-semibold transition hover:border-zinc-500"
               >
                 Email
@@ -366,7 +366,7 @@ export default function Home() {
               </div>
               <div className="flex flex-wrap gap-3">
                 <a
-                  href="mailto:22290525@ogrenci.ankara.edu.tr"
+                  href="mailto:tokelifw@gmail.com"
                   className="rounded-xl bg-white text-black px-5 py-2.5 font-semibold transition hover:opacity-90"
                 >
                   Email
